@@ -1,7 +1,7 @@
 # TRAVELERS
 Trip to science museum 
 
-theme:cayman 
+
 
 <!doctype html>
 <html lang="en">
