@@ -21,4 +21,4 @@ remote-theme:pages-themes/cayman@v0.2.0
  <footer><ul>
  <li> noone08@gmail.com</li>
  
-<li><br><a href="https://@labest.t.me/" ><button class="btn btn- primary btn-lg" onclick="alert('continue')">telegram</button></a></li></footer></ul>
+<li><br><a href="https://@l0000000t.t.me/" ><button class="btn btn- primary btn-lg" onclick="alert('continue')">telegram</button></a></li></footer></ul>
