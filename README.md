@@ -19,6 +19,6 @@ remote-theme:pages-themes/cayman@v0.2.0
  <a href="https://www.google.com/url?sa=t&source=web&cd=&ved=2ahUKEwj5sdi2wZb7AhUcRvEDHZMMByMQFnoECEcQAQ&url=https%3A%2F%2Fwww.thereporterethiopia.com%2F27126%2F&usg=AOvVaw19rklh37zWUEMe87_DQIh_"> SCIENCE MUSEUM</a>
  
  <footer><ul>
- <li> abelgetachew208@gmail.com</li>
+ <li> noone08@gmail.com</li>
  
-<li><br><a href="https://@bellabest.t.me/" ><button class="btn btn- primary btn-lg" onclick="alert('continue')">telegram</button></a></li></footer></ul></html>
+<li><br><a href="https://@labest.t.me/" ><button class="btn btn- primary btn-lg" onclick="alert('continue')">telegram</button></a></li></footer></ul>
