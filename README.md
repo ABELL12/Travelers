@@ -1,7 +1,7 @@
 # TRAVELERS
-Trip to science museum 
 
-remote-theme:pages-themes/cayman@v0.2.0
+
+
 
 
 <html lang="en">
@@ -22,4 +22,4 @@ remote-theme:pages-themes/cayman@v0.2.0
  <li> noone08@gmail.com</li>
  
 <li><br><a href="https://t.me/trnthdya" ><button class="btn btn- primary btn-lg" onclick="alert('continue')">telegram</button></a></li></footer></ul>
-https://t.me/trnthdya
+
