@@ -1,9 +1,9 @@
 # TRAVELERS
 Trip to science museum 
 
+remote-theme:pages-themes/cayman@v0.2.0
 
 
-<!doctype html>
 <html lang="en">
 <head><title>Science museum</title>
 <meta charset="utf-8" />
@@ -21,4 +21,4 @@ Trip to science museum
  <footer><ul>
  <li> abelgetachew208@gmail.com</li>
  
-<li></b></i> <br><b><a href="https://@bellabest.t.me/" ><button class="btn btn- primary btn-lg" onclick="alert('continue')">telegram</button></a></b></li></footer></ul></html>
+<li><br><a href="https://@bellabest.t.me/" ><button class="btn btn- primary btn-lg" onclick="alert('continue')">telegram</button></a></li></footer></ul></html>
